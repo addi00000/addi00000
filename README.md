@@ -1,5 +1,3 @@
-
-
 ## Hello world! ![follow](https://img.shields.io/github/followers/addi00000.svg?style=social&label=Follow&maxAge=2592000)
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=addi00000&show_icons=true"/>](https://github.com/addi00000/)
 
@@ -21,6 +19,6 @@ Discord: whosaddidix?#1400
 
 # 
 
-<p align='right'>Улыбайтесь и машите, мальчики, улыбайтесь и машите</p>
+### <p align='right'>Улыбайтесь и машите, мальчики, улыбайтесь и машите</p>
 
-<img align="right" src="https://media0.giphy.com/media/Uo0CJ8l5kVh2E/giphy.gif?cid=ecf05e47056f7sx1bn1mws3shmwjnmazmj0eagwm8rnblgaa&rid=giphy.gif&ct=g">
+<img align="right" width = 500 height = 300 src="https://c.tenor.com/tl54OmOFkXEAAAAC/smile-wave.gif">
