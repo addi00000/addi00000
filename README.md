@@ -15,7 +15,7 @@ Hey, I'm a highschool student from NYC getting into coding seriously. None of th
 
 ### Contacts:
 
-Discord: whosaddidix?#1400
+[![Discord](https://discord-prof.herokuapp.com/banner/438155299711614977.png)](https://discord.com/users/438155299711614977)
 
 # 
 
