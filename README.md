@@ -2,7 +2,7 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=addi00000&show_icons=true"/>](https://github.com/addi00000/)
 
 ### About Addi:
-Hey, I'm a highschool student from NYC getting into coding seriously. None of the code I make is polished or proffesional. Just a kid in his room writing random stuff.
+Probably a script kiddie
  
 #
  
