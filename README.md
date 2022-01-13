@@ -9,16 +9,10 @@ Probably a script kiddie
 ### Languages I've been using:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white)
 
 # 
 
 ### Contacts:
 
 [![Discord](https://discord-prof.herokuapp.com/banner/438155299711614977.png)](https://discord.com/users/438155299711614977)
-
-# 
-
-### <p align='right'>Улыбайтесь и машите, мальчики, улыбайтесь и машите</p>
-
-<img align="right" width = 500 height = 300 src="https://c.tenor.com/tl54OmOFkXEAAAAC/smile-wave.gif">
