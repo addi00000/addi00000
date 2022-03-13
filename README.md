@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=addi00000)
+
 ## Hello world! ![follow](https://img.shields.io/github/followers/addi00000.svg?style=social&label=Follow&maxAge=2592000)
 [<img align="right" width=60% src="https://discord-prof.herokuapp.com/banner/438155299711614977.png">](https://discord.com/users/438155299711614977)
 
