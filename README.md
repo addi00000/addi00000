@@ -25,5 +25,5 @@ http://www.addidix.xyz/
 
 #
 
-[<img width=45% src="https://github-readme-stats.vercel.app/api?username=addi00000&show_icons=true"/>](http://www.addidix.xyz/)
-[<img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=addi00000&layout=compact"/>](http://www.addidix.xyz/)
+[<img width=49% src="https://github-readme-stats.vercel.app/api?username=addi00000&show_icons=true"/>](http://www.addidix.xyz/)
+[<img width=41% src="https://github-readme-stats.vercel.app/api/top-langs/?username=addi00000&layout=compact"/>](http://www.addidix.xyz/)
