@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=addi00000)
 
 ## Hello world! ![follow](https://img.shields.io/github/followers/addi00000.svg?style=social&label=Follow&maxAge=2592000)
-[<img align="right" width=60% src="https://discord-prof.herokuapp.com/banner/438155299711614977.png">](https://discord.com/users/438155299711614977)
 
 http://www.addidix.xyz/
 
@@ -28,4 +27,7 @@ http://www.addidix.xyz/
 #
 
 [<img width=49% src="https://github-readme-stats.vercel.app/api?username=addi00000&show_icons=true"/>](http://www.addidix.xyz/)
+
 [<img width=41% src="https://github-readme-stats.vercel.app/api/top-langs/?username=addi00000&layout=compact"/>](http://www.addidix.xyz/)
+
+[<img width=60% src="https://discord-prof.herokuapp.com/banner/438155299711614977.png">](https://discord.com/users/438155299711614977)
