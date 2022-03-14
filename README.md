@@ -1,6 +1,13 @@
-![](https://komarev.com/ghpvc/?username=addi00000)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=addi00000"></img>
+  <img src="https://img.shields.io/github/followers/addi00000"></img>
+  <img src="https://img.shields.io/github/stars/addi00000"></img>
+  <a href="http://www.addidix.xyz">
+    <img src="https://img.shields.io/website?down_color=red&down_message=www.addidix.xyz%20is%20down%21&up_color=green&up_message=www.addidix.xyz%20is%20up%21&url=http%3A%2F%2Fwww.addidix.xyz"></img>
+  </a>
+</p>
 
-## Hello world! ![follow](https://img.shields.io/github/followers/addi00000)
+## Hello world! 
 
 http://www.addidix.xyz/
 
