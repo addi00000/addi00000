@@ -1,3 +1,7 @@
+<img width=100% src="https://github.com/addi00000/addi00000/blob/main/banner.gif"></img>
+
+#
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=addi00000"></img>
   <img src="https://img.shields.io/github/followers/addi00000"></img>
@@ -7,7 +11,7 @@
   </a>
 </p>
 
-## Hello world! 
+# Hello world! 
 
 http://www.addidix.xyz/
 
@@ -32,9 +36,5 @@ http://www.addidix.xyz/
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 #
-
-[<img src="https://github-readme-stats.vercel.app/api?username=addi00000&show_icons=true"/>](http://www.addidix.xyz/)
-
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=addi00000&layout=compact"/>](http://www.addidix.xyz/)
 
 [<img src="https://discord-prof.herokuapp.com/banner/438155299711614977.png">](https://discord.com/users/438155299711614977)
