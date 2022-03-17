@@ -35,6 +35,23 @@ http://www.addidix.xyz/
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
+### Specs
+#### PC
+- Ryzen 9 3900X 12-Core Processor
+- RTX 2080 TI
+- X570 AORUS ELITE
+- 64GB G.Skill DDR4 TridentZ: 3600Mhz
+- 1TB NVME SSD / 4TB SSD / 6TB HDD
+
+#### Laptop
+- Macbook Air
+- M1 chipset
+
+#### Peripherals
+- Corsair K70 mk.2: Cherry MX Speed Silver
+- Razer Deathadder Elite
+- Logitech G733
+
 #
 
 [<img src="https://discord-prof.herokuapp.com/banner/438155299711614977.png">](https://discord.com/users/438155299711614977)
