@@ -1,3 +1,8 @@
+# CURRENTLY BANNED ON DISCORD; BOTH ACCOUNTS!!!
+# CURRENTLY BANNED ON DISCORD; BOTH ACCOUNTS!!!
+# CURRENTLY BANNED ON DISCORD; BOTH ACCOUNTS!!!
+
+
 <img width=100% src="https://github.com/addi00000/addi00000/blob/main/banner.gif"></img>
 
 #
