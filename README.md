@@ -53,5 +53,6 @@ http://www.addidix.xyz/
 - Logitech G733
 
 #
-
-[<img src="https://discord-prof.herokuapp.com/banner/438155299711614977.png">](https://discord.com/users/438155299711614977)
+<a href="https://discord.com/users/957459876987170856">
+<img src="https://discord.c99.nl/widget/theme-4/957459876987170856.png" width=100%>
+</a>
