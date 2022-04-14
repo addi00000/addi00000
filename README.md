@@ -3,9 +3,8 @@
 #
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@:addi00000" alt=":addi00000" />
-  <br>
-<!--   <img src="https://komarev.com/ghpvc/?username=addi00000"></img> -->
+<!--   <img src="https://count.getloli.com/get/@:addi00000" alt=":addi00000" /> -->
+  <img src="https://komarev.com/ghpvc/?username=addi00000"></img>
   <img src="https://img.shields.io/github/followers/addi00000"></img>
   <img src="https://img.shields.io/github/stars/addi00000"></img>
   <a href="http://www.addidix.xyz">
