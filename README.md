@@ -31,7 +31,7 @@
 
 #
 <p align=center>
-<a href="https://discord.com/users/957459876987170856">
-<img src="https://discord.c99.nl/widget/theme-4/957459876987170856.png" width=60%>
+<a href="https://discord.com/users/840760989100015666">
+<img src="https://discord.c99.nl/widget/theme-4/840760989100015666.png" width=60%>
 </a>
   </p>
