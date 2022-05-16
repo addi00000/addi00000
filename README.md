@@ -1,4 +1,4 @@
-<p align=center><img width=90% src="https://github.com/addi00000/addi00000/blob/main/banner.gif"></img></p>
+<p align=center><img width=90% src="https://github.com/addi00000/addi00000/blob/main/banner-comic.gif"></img></p>
 
 #
 
