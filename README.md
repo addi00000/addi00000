@@ -14,7 +14,7 @@
   <a href="https://github.com/addi00000"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://github.com/addi00000"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://github.com/addi00000"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-  <a href="https://github.com/addi00000"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+  <a href="https://github.com/addi00000"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
 </p>
 
 <p align="center"><img src="https://count.getloli.com/get/@:addi00000" alt=":addi00000" /></p>
