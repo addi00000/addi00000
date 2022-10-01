@@ -1,6 +1,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
-  <a href="https://discord.com/users/965803827200671804"><img src="https://discord.c99.nl/widget/theme-4/965803827200671804.png" width=50%></a>
+  <a href="https://discord.com/users/965803827200671804"><img src="https://lanyard-profile-readme.vercel.app/api/965803827200671804" width=45%></a>
 </p>
 
 <p align="center">
