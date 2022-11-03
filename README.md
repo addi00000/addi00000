@@ -1,4 +1,4 @@
-<p align=center>https://discord.gg/C2xM9Ej3wr</p>
+<p align=center>https://discord.gg/Chv8fx3a4H</p>
 
 <p align=center>
   <a href="https://discord.com/users/1029845126564024340"><img src="https://lanyard-profile-readme.vercel.app/api/1029845126564024340" width=45%></a>
