@@ -1,5 +1,5 @@
 <p align=center>
-  <a href="https://discord.com/users/1067782507220701276"><img src="https://lanyard-profile-readme.vercel.app/api/1067782507220701276" width=45%></a>
+  <a href="https://discord.com/users/1072675217270378666"><img src="https://lanyard-profile-readme.vercel.app/api/1072675217270378666" width=45%></a>
 </p>
 
 <p align="center">
