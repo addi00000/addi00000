@@ -1,7 +1,3 @@
-<p align=center>
-  <a href="https://discord.com/users/1093923329695551508"><img src="https://lanyard-profile-readme.vercel.app/api/1093923329695551508" width=45%></a>
-</p>
-
 <p align="center">
   <a href="https://github.com/addi00000"><img src="https://img.shields.io/github/followers/addi00000?style=for-the-badge"></img></a>
   <a href="https://github.com/addi00000"><img src="https://img.shields.io/github/stars/addi00000?style=for-the-badge"></img></a>
